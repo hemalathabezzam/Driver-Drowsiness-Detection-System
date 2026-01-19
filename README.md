@@ -7,3 +7,6 @@
 6. Preprocessed and managed data using Pandas and NumPy for analysis.
 7. Achieved 98% detection accuracy.
 
+## Note
+This repository is a fork of the original project developed collaboratively.
+It is kept here for learning and portfolio reference.
